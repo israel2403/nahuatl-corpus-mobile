@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="welcome_title">Corpus Náhuatl–Español</string>
+    <string name="welcome_subtitle">Recopilación y validación de datos lingüísticos</string>
+    <string name="welcome_sign_in">Iniciar sesión</string>
+    <string name="welcome_create_account">Crear cuenta</string>
+</resources>
